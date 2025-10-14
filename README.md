@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Narasimha  
+s# Hi there! 👋 I'm Narasimha  
 
 🚀 **About Me**  
 - 👀 I’m interested in **Java Full-Stack Development, Spring Boot, Docker, AWS, and Machine Learning**  
@@ -20,7 +20,7 @@
 ### 🛠 Tech Stack  
 
 <!-- Badges for Tech Stack using Shields.io and Simple Icons -->
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=Yellow)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
